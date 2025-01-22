@@ -6,7 +6,7 @@ c = int(input("Entrez c: "))
 
 # Calculer le discriminant et assigner la valeur dans la variable "delta"
 # delta = ...
-
+delta= b**2 - 4*b*c 
 # Déterminer la condition (bool) qui correspond à aucune solution de l'équation et mettre la valeur dans la variable "naPasDeSolution"
 # naPasDeSolution = ...
 
